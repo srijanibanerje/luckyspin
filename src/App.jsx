@@ -59,6 +59,20 @@ const COUPONS = [
   { name: "SUJIT PAL", couponCode: "9477" },
   { name: "MITHUN SARKAR", couponCode: "9722" },
   { name: "DEBABRATA BHAUMIK", couponCode: "9892" },
+  { name: "SASANKA MANDAL", couponCode: "2683" },
+  { name: "TAPAS KUMAR JANA", couponCode: "5443" },
+  { name: "HARICHARAN BISWAS", couponCode: "7713" },
+  { name: "SOUMI BHAUMIK", couponCode: "8349" },
+  { name: "TAPAS KUMAR LAHIRI", couponCode: "8687" },
+  { name: "PARTHA DAS", couponCode: "1037" },
+  { name: "SUBHANKAR BISWAS", couponCode: "1428" },
+  { name: "PULAK PUTUTUNDA", couponCode: "2359" },
+  { name: "BIPLAB SAHA", couponCode: "3084" },
+  { name: "BABUL BISWAS", couponCode: "3927" },
+  { name: "PAMPA RAHA", couponCode: "5086" },
+  { name: "SULATA BARMAN", couponCode: "6139" },
+  { name: "KAMALA BAIJYA", couponCode: "8462" },
+  {name: "JHUMUR BISWAS", couponCode: "1185" },
 ];
 const LABEL = "YOUR LUCKY NUMBER";
 
