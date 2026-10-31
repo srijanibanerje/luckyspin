@@ -73,6 +73,7 @@ const COUPONS = [
   { name: "SULATA BARMAN", couponCode: "6139" },
   { name: "KAMALA BAIJYA", couponCode: "8462" },
   {name: "JHUMUR BISWAS", couponCode: "1185" },
+  {name: "UJJWAL SARKAR", couponCode: "1688" },
 ];
 const LABEL = "YOUR LUCKY NUMBER";
 
